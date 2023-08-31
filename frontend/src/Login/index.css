@@ -1,0 +1,7 @@
+form-container{
+    box-shadow:10px 10px 10px 10px #bfbfbf;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:10px;
+}
